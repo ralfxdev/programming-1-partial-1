@@ -1,4 +1,10 @@
-﻿int n;
+﻿//1.- Escribir un programa que le pida al usuario un número entero positivo y le muestre un menú con las siguientes opciones:
+//Calcular el factorial del número.
+//Calcular la raíz cuadrada del número.
+//Salir del programa.
+//El usuario debe poder elegir una opción y repetir el proceso hasta que elija salir.
+
+int n;
 
 do
 {
